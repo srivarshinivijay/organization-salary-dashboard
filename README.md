@@ -1,4 +1,4 @@
-# Organization Salary & Bonus Dashboard
+# Organization Salary & Bonus Dashboard - Power BI
 
 ## 📌 Project Overview
 Developed an interactive organization-level dashboard to analyze employee salary distribution, bonus percentages, departmental spend, and demographic trends. The dashboard enables HR and management teams to monitor compensation patterns and support data-driven workforce planning.
